@@ -1,4 +1,4 @@
-# Why Use Guthub Pages?
+# Why Use Github Pages?
 
 ![Angry Presenter](say-works-on-my-machine.jpg)
 
